@@ -21,6 +21,8 @@ body {
     justify-content: center;
     flex-direction: row;
     place-content: space-around;
+    flex-grow: 1;
+    flex-basis: 0;
 }
 
 a {
