@@ -42,6 +42,26 @@ a {
     height: 20vh;
 }
 
+button {
+    border-radius: 20px;
+    border: outset 10px #008dd2;
+    padding: 20px;
+    text-decoration: none;
+    color: #008dd2;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.3);
+    height: 10vh;
+    width: 40vw;
+    max-width: 300px;
+}
+
+.download {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+}
+
 h3 {
     text-align: center;
 }
