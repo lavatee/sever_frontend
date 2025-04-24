@@ -48,3 +48,22 @@ h3 {
 p {
     text-align: center;
 }
+
+#pdf {
+    width: 100vw;
+    height: 80vh;
+}
+
+.pdfButton {
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.back {
+    height: 10vh;
+    width: 40vw;
+    padding: 0;
+    max-width: 300px;
+}
