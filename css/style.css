@@ -87,8 +87,9 @@ h2 {
 }
 
 .back {
-    height: 10vh;
-    width: 40vw;
+    height: 7vh;
+    width: 30vw;
     padding: 0;
     max-width: 300px;
+    justify-content: center;
 }
