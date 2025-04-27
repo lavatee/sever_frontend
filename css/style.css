@@ -33,8 +33,7 @@ a {
     border-color: #008dd2;
     border: outset 10px #008dd2;
     align-items: center;
-    justify-content: center;
-    padding: 20px;
+    padding: 10px;
     text-decoration: none;
     color: #008dd2;
     box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.3);
@@ -64,6 +63,8 @@ button {
 
 h3 {
     text-align: center;
+    margin: 0;
+    font-size: 1.1em;
 }
 
 p {
